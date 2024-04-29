@@ -36,11 +36,9 @@ Step 13: Define the gradient descent algorithm.
 
 Step 14: Train the model.
 
-Step 15: Make predictions.
+Step 15: Make predictionsand evaluate the model.
 
-Step 16: Evaluate the model.
-
-Step 17: Stop
+Step 16: Stop
 
 ## Program:
 ```
