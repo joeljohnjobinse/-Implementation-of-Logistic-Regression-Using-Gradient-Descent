@@ -9,21 +9,37 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 Step 1: Start 
+
 Step 2: Import modules
+
 Step 3: Read the file
+
 Step 4: Drop the serial no and salary columns
+
 Step 5: Categorise columns for further labelling
+
 Step 6: Label the columns
+
 Step 7: Display dataset
+
 Step 8: Select the features and labels
+
 Step 9: Display dependent variables
+
 Step 10: Initialize the model parameters.
+
 Step 11: Define the sigmoid function.
+
 Step 12: Define the loss function.
+
 Step 13: Define the gradient descent algorithm.
+
 Step 14: Train the model.
+
 Step 15: Make predictions.
+
 Step 16: Evaluate the model.
+
 Step 17: Stop
 
 ## Program:
