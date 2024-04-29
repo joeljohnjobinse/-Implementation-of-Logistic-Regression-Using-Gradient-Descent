@@ -126,15 +126,19 @@ print(y_prednew)
 ```
 
 ## Output:
-
+# Accuracy
 ![ml_exp5_output1](https://github.com/joeljohnjobinse/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/138955488/dc5d0088-e37a-4608-b7a2-1002d400da74)
 
+# Y_pred
 ![ml_exp5_output2](https://github.com/joeljohnjobinse/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/138955488/3088a79e-580c-486e-8edd-4d571b4f3d39)
 
+# Y
 ![ml_exp5_output3](https://github.com/joeljohnjobinse/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/138955488/c10d448d-68dc-48c7-b586-282dd2d7ae3a)
 
+# Y_prednew
 ![ml_exp5_output4](https://github.com/joeljohnjobinse/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/138955488/625d0f0e-0c5f-4b38-abcd-75ce983d333a)
 
+# Y_prednew (2)
 ![ml_exp5_output5](https://github.com/joeljohnjobinse/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/138955488/0641fae9-f932-4d08-a374-9ed4f1a3ee11)
 
 
