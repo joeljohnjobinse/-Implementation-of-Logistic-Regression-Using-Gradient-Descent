@@ -96,6 +96,9 @@ Y
 #Initialize the model parameters.
 theta=np.random.randn(X.shape[1])
 y=Y
+```
+
+```
 #Define the sigmoid function.
 def sigmoid(z):
     return 1/(1+np.exp(-z))
